@@ -7,9 +7,7 @@ This project is part of the VT6002CEM Mobile App Development course at VTC SHAPE
 ## Features
 
 - Add new tasks
-- Mark tasks as completed
 - Delete tasks
-- Filter tasks by status (all, completed, pending)
 - **CRUD comments on each task**
 - **User authentication with email and password**
 
