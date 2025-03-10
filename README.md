@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is part of the VT6002CEM Mobile App Development course at VTC SHAPE & Coventry University. The objective of this project is to develop a TodoApp using React Native, which allows users to manage their tasks.
+This project is part of the VT6002CEM Mobile App Development course at VTC SHAPE & Coventry University.   
+The objective of this project is to develop a TodoApp using React Native, which allows users to manage their tasks.
 
 ## Features
 
