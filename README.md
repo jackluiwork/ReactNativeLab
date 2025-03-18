@@ -28,7 +28,11 @@ To get started with the project, follow these steps:
    ```bash
    npm install
    ```
-4. **Run the app:**
+4. **Login expo:**
+   ```bash
+   npx expo login
+   ```
+5. **Run the app:**
    ```bash
    npx expo start
    ```
